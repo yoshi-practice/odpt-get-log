@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "nodemon": "nodemon app.js",
     "start": "node app.js",
     "test": "node app.js"
   },
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/yoshi1125hisa/odpt#readme",
   "dependencies": {
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
