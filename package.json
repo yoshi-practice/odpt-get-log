@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yoshi1125hisa/odpt/issues"
   },
-  "homepage": "https://github.com/yoshi1125hisa/odpt#readme"
+  "homepage": "https://github.com/yoshi1125hisa/odpt#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
